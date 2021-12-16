@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView txt;
 
-
+    //update main activity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
